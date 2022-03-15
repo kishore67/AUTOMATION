@@ -1,5 +1,7 @@
 import pyautogui as p, time as t
 
+#this code is used to automate Whats app messages using python
+
 p.press('win')
 t.sleep(1)
 p.write('chrome')
